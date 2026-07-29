@@ -6,7 +6,7 @@
 
 | Project | Description |
 |---|---|
-| [ Spot VR Teleoperation ](https://github.com/h2r/spot_ros2_multi_ws/tree/gui-record-v2) | ROS2 server backend for VR teleoperation of Spot robots; records/replays robot actions to generate imitation-learning training data |
+| [ Spot VR Teleoperation ](https://github.com/h2r/spot_ros2_multi_ws/tree/gui-record-v2) | VR teleoperation system for multiple Spot robots; ROS2 backend + Unity interface for recording/replaying actions to build imitation-learning datasets |
 | [ RISD/Brown NASA SUITS Challenge 2026 ](https://github.com/RISDxNASA-SUITS/SUITS-26/tree/frontend/revamp-v2) | Built the React (Vite) frontend for real-time EVA rover navigation, integrated with a live data pipeline; top 10 national finalist |
 | [ Semantic Segmentation for Autonomous Vehicles ]( https://github.com/blmontoya/mewtwo/tree/main) | RangeNet++ implementation for LiDAR semantic segmentation on SemanticKITTI, using range image projection and Gaussian kNN post-processing |
 | [ Reconstructing Mercury's Southern Hemisphere ]( https://github.com/blmontoya/reconstructing_mercury ) | CNN-based reconstruction of Mercury's southern hemisphere using MESSENGER data, low-degree spherical harmonics, and lunar topography as training references |
