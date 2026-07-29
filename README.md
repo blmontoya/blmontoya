@@ -1,3 +1,9 @@
+<h3 align="center">Hello, I'm Brandon! 👋</h3>
+
+<p align="center">
+    Here are some projects I worked on that I thought were cool<br>
+</p>
+
 | Project | Description |
 |---|---|
 | [ Spot VR Teleoperation ](https://github.com/h2r/spot_ros2_multi_ws/tree/gui-record-v2) | ROS2 server backend for VR teleoperation of Spot robots; records/replays robot actions to generate imitation-learning training data |
